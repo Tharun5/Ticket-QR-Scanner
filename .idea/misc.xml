@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Tharun/Downloads/qrdemo/qrdemo/app/src/main/res/drawable/ic_cross.xml" value="0.1385" />
+        <entry key="..\:/Users/Tharun/Downloads/qrdemo/qrdemo/app/src/main/res/drawable/ic_error.xml" value="0.1385" />
+        <entry key="..\:/Users/Tharun/Downloads/qrdemo/qrdemo/app/src/main/res/layout/activity_qr_confirm.xml" value="0.21388888888888888" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
